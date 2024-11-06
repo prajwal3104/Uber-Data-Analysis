@@ -20,6 +20,7 @@ dimension tables, forming an analytical dataset.
 ----------------------------------------------------------------------------------------------------------------------------
 
 
+<img width="1200" alt="Uber-Data-Analysis" src="https://github.com/user-attachments/assets/7c5dd363-cf0f-4c83-8c6d-36150d33f8a9">
 
 
 
